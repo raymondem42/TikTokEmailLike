@@ -13,7 +13,7 @@ from email.mime.multipart import MIMEMultipart
 from etext import send_sms_via_email
 
 
-phone_number = "954-648-4490"
+phone_number = "number"
 message = "big chungo"
 provider = "Verizon"
 
