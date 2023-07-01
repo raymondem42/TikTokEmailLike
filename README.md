@@ -1,3 +1,4 @@
+From an older github account that I lost access to
 # TikTokEmailLike
 
 So someone this morning tried to get me into some money laundering scam. I was not a fan of this. So I wrote this code today to email the scammer a Rick Roll link for every like a TikTok video gets. This code does not have all of the credentials for my accounts but does work if you fill in credentials of your own.
