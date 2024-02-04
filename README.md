@@ -1,8 +1,22 @@
-From an older github account that I lost access to
 # TikTokEmailLike
 
-So someone this morning tried to get me into some money laundering scam. I was not a fan of this. So I wrote this code today to email the scammer a Rick Roll link for every like a TikTok video gets. This code does not have all of the credentials for my accounts but does work if you fill in credentials of your own.
+## Introduction
 
-The only things that would need to change is the value of i and i1. I set them at 2599990 because I was testing on Gordon Ramsey TikTok and I had to make sure all of it worked. This code is still a work in progress but it is 95% done. All that would need to change is setting those values to 0 and making it so that the program runs once an hour by itself or maybe once evvery half an hour. This code will be finished either a little bit later today or early tommorrow. 
+This project was created in response to an attempted money laundering scam I encountered. In order to deter scammers, I developed a script that sends a Rick Roll link via email for every like a TikTok video receives. While this code is functional, please note that it does not contain my personal credentials. You'll need to fill in your own credentials for the code to work.
 
-I also want to add a feature (that's nearly finished) where it also sends a text message to a scammer if you have their phone number.
+## Usage
+
+1. Update the values of `i` and `i1` in the code. They are currently set to 2599990, which was used for testing on Gordon Ramsey's TikTok.
+2. The code is nearly complete and only requires setting the mentioned values to 0.
+3. Consider implementing a scheduler to run the program automatically, either once an hour or every half an hour.
+
+## Future Features
+
+I am actively working on an additional feature that sends a text message to a scammer if you have their phone number. This feature is almost complete and will be integrated into the code shortly.
+
+## Note
+
+This project is a work in progress and is currently at 95% completion. Feel free to suggest improvements.
+
+**Disclaimer:** Use this code responsibly and adhere to ethical guidelines. It's intended for educational and entertainment purposes only.
+
